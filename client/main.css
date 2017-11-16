@@ -1,0 +1,9 @@
+/* CSS declarations go here */
+
+.logout {
+  margin-top: 10px;
+}
+.submit {
+  margin-top: 25px;
+  width: 25% !important;
+}
