@@ -1,3 +1,6 @@
+import './login.html';
+
+
 Template.login.events ({
 
   'click #login': function(evt, tmpl) {

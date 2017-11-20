@@ -1,3 +1,6 @@
+import './signup.html';
+
+
 Template.signup.events({
 
   'click #signup' : function(event, template) {

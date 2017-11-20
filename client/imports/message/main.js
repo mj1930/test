@@ -1,6 +1,7 @@
 import { Template } from 'meteor/templating';
 import { Mongo } from 'meteor/mongo';
 import _ from 'underscore';
+import './main.html';
 const Messages = new Mongo.Collection('messages');
 
 Template.message.events ({
